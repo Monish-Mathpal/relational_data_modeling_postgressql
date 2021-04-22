@@ -40,7 +40,7 @@ It will help the company to understand its app users in a more better way, which
 6. data
 
 
-![GitHub Logo!](Schema_Design.png)
+![GitHub Logo!](Schema_Design.PNG)
 
 
    
